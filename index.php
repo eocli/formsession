@@ -10,7 +10,7 @@
 </head>
 <section>
     <div class="contenedor">
-        <<form action="#" method="post" name="f1" id="f1">
+        <form action="#" method="post" name="f1" id="f1">
             <input type="text" name="v_user"  id="v_user" placeholder="USUARIO">
             <input type="pasword" name="v_pass" id="v_pass" placeholder="PASSWORD">
             <input type="submmit" name="Enviar">
